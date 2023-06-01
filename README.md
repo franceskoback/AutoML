@@ -3,8 +3,8 @@
 
 ## Main Code
 AutoML Phenotypes 
-![Histogram of Moaks Pain Scores 2 post - 1 prior]
-<img src="https://github.com/franceskoback/TKA_Phenotypes/blob/main/images/histogram_scores.jpg" width="200" height="200">
+
+<img src="https://github.com/franceskoback/TKA_Phenotypes/blob/main/images/histogram_scores.jpg" width="500" height="500">
 
 
 
