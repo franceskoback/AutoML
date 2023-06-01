@@ -17,7 +17,7 @@ AutoML Phenotypes
 <img src="https://github.com/franceskoback/TKA_Phenotypes/blob/main/images/4_phenotypes.jpg" width="550" height="500">
 
 ## All Phenotypes Upset Plot Not Subset on TKA 
-<img src="https://github.com/franceskoback/TKA_Phenotypes/blob/main/images/phenotypes_upset.jpg" width="900" height="500">
+<img src="https://github.com/franceskoback/TKA_Phenotypes/blob/main/images/phenotypes_upset.jpg" width="1000" height="500">
 
 ## All Five Phenotypes Venn Diagram
 <img src="https://github.com/franceskoback/TKA_Phenotypes/blob/main/images/5_phenotypes.jpg" width="550" height="500">
