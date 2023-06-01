@@ -3,7 +3,7 @@
 
 ## Main Code
 AutoML Phenotypes 
-![Histogram of Moaks Pain Scores 2 post - 1 prior](https://github.com/franceskoback/[reponame]/blob/[branch]/image.jpg)?raw=true 
+![Histogram of Moaks Pain Scores 2 post - 1 prior](https://github.com/franceskoback/TKA_Phenotypes/blob/main/images/histogram_scores.jpg)?raw=true 
 
 
 
