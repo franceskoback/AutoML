@@ -7,5 +7,7 @@ AutoML Phenotypes
 
 ![img|50x50](https://github.com/franceskoback/TKA_Phenotypes/blob/main/images/histogram_scores.jpg)
 
+<img src='[figure/rstudio.png](https://github.com/franceskoback/TKA_Phenotypes/blob/main/images/histogram_scores.jpg)' width='25'>
+
 
 
